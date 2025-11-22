@@ -1,1 +1,17 @@
 hello world
+
+# 1. Initialize a new Git repository
+git init
+
+# 2. Add a file to track
+echo "Hello Git!" > hello.txt
+git add hello.txt
+
+# 3. Commit the file
+git commit -m "Add hello.txt with greeting"
+
+# 4. Link to a remote repository (replace with your repo URL)
+git remote add origin https://github.com/username/repo.git
+
+# 5. Push changes to the remote repository
+git push -u origin main
