@@ -31,4 +31,6 @@ def main():
 
 if __name__ == "__main__":
     main()
-kjhvkjhksc
+kjhvkjhks
+
+git remote set-url origin https://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@github.com/18jatin/devOps-Edurekac
