@@ -33,4 +33,5 @@ if __name__ == "__main__":
     main()
 kjhvkjhks
 
-git remote set-url origin https://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@github.com/18jatin/devOps-Edurekac
+git remote set-url origin 
+To SSH from one Linux Google Cloud virtual machine (VM) to another Linux Google Cloud VM, you can use the standard ssh command, provided you have configured SSH keys correctly.
